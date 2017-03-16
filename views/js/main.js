@@ -446,10 +446,9 @@ var resizePizzas = function (size) {
   }
 
   // Iterates through pizza elements on the page and changes their widths
-// Iterates through pizza elements on the page and changes their widths
-  // Modified function to select randomPizzaContainer elements by class name and save to a variable, pizzaElements.
-  // Modfied for loop to save the length property of the pizzaElements object as a local variable.
-  // Moved the dx and newwidth variables outside of the for loop, since it didn't seem necessary to recompute them with each pass through the loop.
+  // select randomPizzaContainer elements by class name and save to a variable, pizzaElements.
+  // save length property of the pizzaElements object as a local variable.
+  // move dx and newwidth variables outside of the for loop
   function changePizzaSizes(size) {
     var pizzaElements = document.getElementsByClassName("randomPizzaContainer");
     var dx = determineDx(pizzaElements[0], size);
