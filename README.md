@@ -45,13 +45,10 @@ ___
 
 #### Reviewer Suggestions
 
-1. [x] Your scrolling speed is not bad, but if you test it on a modest equipment, it could be not consistent on 60 fps.
-   For those modest equipments, enabling hardware accelerated composition makes a huge difference.
-   You could use translateX instead of style.left in the main.js file, or, a little trick to make it simpler.
-   Add these properties to .mover in the css file. 
+Scrolling speed may not be 60 fps on more modest devices.  For those devices, enabling hardware accelerated composition makes a huge difference. You could use translateX instead of style.left in the main.js file, or, a little trick to make it simpler. Add these properties to .mover in the css file. 
    ```
    -webkit-backface-visibility: hidden; /* Chrome, Safari, Opera */
    backface-visibility: hidden;
    ```
    
-2. [ ]    
+    
