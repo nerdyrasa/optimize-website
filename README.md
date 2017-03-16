@@ -2,8 +2,9 @@
 
 Website optimization using [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score to evaluate page speed. The second part of the project is the optimization of Frames per Second(fps) in pizza.html. 
 
-[Live index.html for PageSpeed Insights](https://nerdyrasa.github.io/optimize-website/)
-[Live pizza.html for frames per second evaluation](https://nerdyrasa.github.io/optimize-website/views/pizza.html) Open the console window to review statistics.
+[Click here for the live index.html for PageSpeed Insights evaluation](https://nerdyrasa.github.io/optimize-website/)
+
+[Click here for the live pizza.html for frames per second evaluation](https://nerdyrasa.github.io/optimize-website/views/pizza.html) Open the console window to review statistics.
 ___
 
 #### Part 1: Optimize PageSpeed Insights score for index.html of the portfolio
@@ -11,6 +12,7 @@ ___
 PageSpeed Insights Score *Before* Optimization: 
 
 **Mobile: 27/100**
+
 **Desktop: 29/100**
 
 1. Compress images. Images have a huge impact on page speed.
@@ -21,6 +23,7 @@ PageSpeed Insights Score *Before* Optimization:
 PageSpeed Insights Score *After* Optimization: 
 
 **Mobile: 97/100** :smiley:
+
 **Desktop: 97/100** :smiley:
 ___
 
