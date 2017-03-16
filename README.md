@@ -2,6 +2,9 @@
 
 Website optimization using [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score to evaluate page speed. The second part of the project is the optimization of Frames per Second(fps) in pizza.html. 
 
+[Live index.html for PageSpeed Insights](https://nerdyrasa.github.io/optimize-website/)
+[Live pizza.html for frames per second evaluation] Open the console window to review statistics. (https://nerdyrasa.github.io/optimize-website/views/pizza.html)
+
 #### Part 1: Optimize PageSpeed Insights score for index.html of the portfolio
 
 PageSpeed Insights Score *Before* Optimization: 
