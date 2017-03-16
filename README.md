@@ -42,6 +42,8 @@ ___
 4. [Performance: Class vs. Style](https://jsperf.com/class-vs-style)
 5. [Where did rendering go in Chrome DevTools](http://stackoverflow.com/questions/33292084/where-did-rendering-go-in-chrome-devtools)
 6. [Markdown Cheat Sheet](https://beegit.com/markdown-cheat-sheet)
+7. [Photo Resizer](http://webresizer.com/resizer/)
+8. [Photo Compressor](https://compressor.io/compress)
 
 #### Reviewer Suggestions
 
