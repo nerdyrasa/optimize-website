@@ -42,3 +42,16 @@ ___
 4. [Performance: Class vs. Style](https://jsperf.com/class-vs-style)
 5. [Where did rendering go in Chrome DevTools](http://stackoverflow.com/questions/33292084/where-did-rendering-go-in-chrome-devtools)
 6. [Markdown Cheat Sheet](https://beegit.com/markdown-cheat-sheet)
+
+#### Reviewer Suggestions
+
+1. [x] Your scrolling speed is not bad, but if you test it on a modest equipment, it could be not consistent on 60 fps.
+   For those modest equipments, enabling hardware accelerated composition makes a huge difference.
+   You could use translateX instead of style.left in the main.js file, or, a little trick to make it simpler.
+   Add these properties to .mover in the css file. 
+   ```
+   -webkit-backface-visibility: hidden; /* Chrome, Safari, Opera */
+   backface-visibility: hidden;
+   ```
+   
+2. [ ]    
