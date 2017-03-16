@@ -47,6 +47,7 @@ ___
 9. [Timeline Profiling with Chrome DevTools](http://blog.librato.com/posts/chrome-devtools)
 10. [Interesting perspective from a Chromium Developer](https://medium.com/@egraether/why-working-on-chrome-made-me-develop-a-tool-for-reading-source-code-7111ba21a6f0#.6mgo252tp)
 11. [document.createDocumentFragment()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment)
+12. [Faster DOM](https://news.ycombinator.com/item?id=11777450)
 
 #### Reviewer Suggestions
 
