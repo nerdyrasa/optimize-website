@@ -44,6 +44,9 @@ ___
 6. [Markdown Cheat Sheet](https://beegit.com/markdown-cheat-sheet)
 7. [Photo Resizer](http://webresizer.com/resizer/)
 8. [Photo Compressor](https://compressor.io/compress)
+9. [Timeline Profiling with Chrome DevTools](http://blog.librato.com/posts/chrome-devtools)
+10. [Interesting perspective from a Chromium Developer](https://medium.com/@egraether/why-working-on-chrome-made-me-develop-a-tool-for-reading-source-code-7111ba21a6f0#.6mgo252tp)
+11. [document.createDocumentFragment()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment)
 
 #### Reviewer Suggestions
 
