@@ -5,8 +5,9 @@ Website optimization using [Google PageSpeed Insights](https://developers.google
 #### Part 1: Optimize PageSpeed Insights score for index.html of the portfolio
 
 PageSpeed Insights Score *Before* Optimization: 
-** Mobile: 27/100 **
-** Desktop: 29/100 **
+
+**Mobile: 27/100**
+**Desktop: 29/100**
 
 1. Compress images. Images have a huge impact on page speed.
 2. Use a font loader. "After images, fonts are the normally the largest assets in your web page."(See #1, Resources).
@@ -14,8 +15,9 @@ PageSpeed Insights Score *Before* Optimization:
 4. Move google analytics code from the head to right before the closing body tag.
 
 PageSpeed Insights Score *After* Optimization: 
-** Mobile: 97/100** :smiley:
-** Desktop: 97/100** :smiley:
+
+**Mobile: 97/100** :smiley:
+**Desktop: 97/100** :smiley:
 
 #### Part 2: Optimize Frames per Second in pizza.html
 
