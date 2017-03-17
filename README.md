@@ -1,4 +1,4 @@
-## Website Performance Optimization
+## Website Performance Optimization: *Speed* is a **FEATURE**
 
 Website optimization using [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score to evaluate page speed. The second part of the project is the optimization of Frames per Second(fps) in pizza.html. 
 
@@ -48,6 +48,12 @@ ___
 10. [Interesting perspective from a Chromium Developer](https://medium.com/@egraether/why-working-on-chrome-made-me-develop-a-tool-for-reading-source-code-7111ba21a6f0#.6mgo252tp)
 11. [document.createDocumentFragment()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment)
 12. [Faster DOM](https://news.ycombinator.com/item?id=11777450)
+13. [Web Page Test](https://www.webpagetest.org/)
+14. [Progressive JPEGs](http://cloudinary.com/blog/progressive_jpegs_and_green_martians)
+15. [Cloudinary](http://cloudinary.com/)
+16. [Using Chrome Developer Tools to Analyze Web Performance](https://www.youtube.com/watch?v=dr_SfAvtPxI)
+17. [Web Performance Optimization Blog](https://wpostats.com/)
+___
 
 #### Reviewer Suggestions
 
@@ -56,5 +62,18 @@ Scrolling speed may not be 60 fps on more modest devices.  For those devices, en
    -webkit-backface-visibility: hidden; /* Chrome, Safari, Opera */
    backface-visibility: hidden;
    ```
+___
    
+#### Chrome DevTools Notes
+   
+- DOM, CSSOM and blocking
+- Latency, not bandwidth, is the problem
+   - Testing responsiveness on variety of devices
+   - Audit tab and how to use it
+   - Pinpoint JS bottlenecks
+   - Waterfall chart
+   - Various times of navigation timing
+   - Factors that effect performance
+
+
     
